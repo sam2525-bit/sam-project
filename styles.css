@@ -1,0 +1,27 @@
+.header, .footer {
+    background-color: #FFDFD6;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.content {
+    min-height: 400px;
+    padding: 20px;
+    text-align: center;
+    padding-left: 0%;
+ padding-right: 0%;
+ 
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 18px;
+    margin: 0 10px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #007bff;
+}
+
+.footer p {
+    margin: 0;
+}
